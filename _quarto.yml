@@ -21,3 +21,4 @@ format:
     highlight: zenburn
     css: styles.css
     toc: FALSE
+    self-contained: true
